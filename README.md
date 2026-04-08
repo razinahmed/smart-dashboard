@@ -2,18 +2,16 @@
 
 <div align="center">
 
-![Smart Dashboard](https://via.placeholder.com/800x450/1a1a2e/16c784?text=Smart+Dashboard+Dark+Mode)
-
-**A real-time analytics dashboard built with React, Chart.js & Node.js**
-
-Live weather, stocks, and news in one sleek, responsive UI.
-
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)](https://www.chartjs.org/)
 [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
+**A real-time analytics dashboard built with React, Chart.js & Node.js**
+
+Live weather, stocks, and news in one sleek, responsive UI.
 
 [View Demo](#) • [Report Bug](#) • [Request Feature](#)
 
@@ -58,19 +56,40 @@ Live weather, stocks, and news in one sleek, responsive UI.
 
 ---
 
-## 📸 Screenshots
+## 📊 Dashboard Preview
 
-### Dark Mode & Light Mode
+The Smart Dashboard provides a modern, unified interface for monitoring real-time data across multiple sources:
 
-| Dark Mode | Light Mode |
-|-----------|-----------|
-| ![Dark Mode](https://via.placeholder.com/400x300/1a1a2e/16c784?text=Smart+Dashboard+Dark+Mode) | ![Light Mode](https://via.placeholder.com/400x300/f0f0f0/333333?text=Smart+Dashboard+Light+Mode) |
+```
+┌─────────────────────────────────────────────────────────────┐
+│  📊 SMART DASHBOARD                                    ☀️/🌙 │
+├─────────────────────────────────────────────────────────────┤
+│                                                              │
+│  🌤️ WEATHER              📈 STOCKS          📰 HEADLINES    │
+│  ┌──────────────────┐  ┌──────────────┐  ┌──────────────┐  │
+│  │ Temp: 72°F      │  │ AAPL: $180   │  │ Market surge │  │
+│  │ Humidity: 65%   │  │ MSFT: $340   │  │ New tech    │  │
+│  │ Wind: 12 mph    │  │ GOOGL: $125  │  │ AI advances │  │
+│  │ Clear, Sunny ☀️ │  │ +2.5% today  │  │ Updates... │  │
+│  └──────────────────┘  └──────────────┘  └──────────────┘  │
+│                                                              │
+│  📊 INTERACTIVE ANALYTICS                                   │
+│  ┌──────────────────────────────────────────────────────┐  │
+│  │                   Chart.js Visualization              │  │
+│  │  ▁ ▂ ▃ ▄ ▅ ▆ ▇ █ ▇ ▆ ▅ ▄ ▃ ▂ ▁ Real-time updates  │  │
+│  │  Stock prices, trends, and KPI analytics            │  │
+│  └──────────────────────────────────────────────────────┘  │
+│                                                              │
+└─────────────────────────────────────────────────────────────┘
+```
 
-### Dashboard Features
-
-| Real-Time Charts | KPI Analytics |
-|-----------------|---------------|
-| ![Real-Time Charts](https://via.placeholder.com/400x300/1a1a2e/4ecdc4?text=Real-Time+Charts) | ![KPI Analytics](https://via.placeholder.com/400x300/1a1a2e/ff6b6b?text=KPI+Analytics) |
+**Features Include:**
+- Live weather data with location detection
+- Real-time stock market tracking
+- Curated news aggregation
+- Dark & Light mode toggle
+- Fully responsive design
+- Beautiful animated charts
 
 ---
 
