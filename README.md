@@ -19,6 +19,14 @@ Live weather, stocks, and news in one sleek, responsive UI.
 
 ---
 
+## 📸 Preview
+
+<div align="center">
+<img src="screenshots/dashboard-dark.svg" alt="Smart Dashboard Preview" width="100%">
+</div>
+
+---
+
 ## ✨ Features
 
 | Feature | Description |
