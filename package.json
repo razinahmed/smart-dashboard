@@ -1,0 +1,32 @@
+{
+  "name": "smart-dashboard",
+  "version": "1.0.0",
+  "description": "A real-time analytics dashboard built with React, Chart.js & Node.js",
+  "main": "server/index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "node server/index.js",
+    "client": "cd client && npm start",
+    "build": "cd client && npm run build",
+    "install-all": "npm install && cd client && npm install",
+    "start": "node server/index.js"
+  },
+  "keywords": [
+    "analytics",
+    "dashboard",
+    "react",
+    "chartjs",
+    "nodejs"
+  ],
+  "author": "Abdul Rasak V",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "concurrently": "^7.6.0",
+    "nodemon": "^2.0.22"
+  }
+}
